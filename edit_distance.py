@@ -61,4 +61,4 @@ def more_than_distance_text(word, dictionary, min):
 if __name__ == '__main__':
     matrix, min_ed = edit_distance(basic, new_word)
     print_matrix(basic, new_word, matrix)
-    more_than_distance_text(basic, './europarl-v7.el-en.en', 2)
+    more_than_distance_text(basic, './texts/europarl-v7.el-en.en', 2)
