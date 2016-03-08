@@ -104,3 +104,6 @@ tmtagsHistory
 .bundle
 
 texts/*
+test.py
+file.txt
+test*
